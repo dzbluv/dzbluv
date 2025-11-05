@@ -31,7 +31,7 @@ Every line of code I write is part of my journey to grow, create, and share know
   <a href="https://github.com/Bluv" target="_blank">
     <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/Bluv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/Bluv?tab=repositories&sort=stargazers" target="_blank">
+  <a href="https://github.com/dzbluv?tab=repositories&sort=stargazers" target="_blank">
     <img alt="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/Bluv?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   <a href="https://www.instagram.com/dz_bluv" target="_blank">
