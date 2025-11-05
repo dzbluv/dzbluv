@@ -1,27 +1,66 @@
-# 💫 About Me:
-I'm Adjeroud Mohamed Mounib,<br>i'm passionate computer science student in ESTIN,<br>i'm learning Ai systems and deep learning,<br>i'm intrested in cyber security.
+# 💻 Bluv
 
+**`Digital Explorer (Developer / Learner / Creator)`**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bl_v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dz_bluv) 
+Hey there! I'm **Adjeroud Mohamed Mounib**, a passionate developer and curious learner who loves exploring the digital world — from building projects that solve real problems to diving into AI, programming, and creative coding.  
+Every line of code I write is part of my journey to grow, create, and share knowledge with others.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dzbluv&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dzbluv&theme=discord_old_blurple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzbluv&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dzbluv&theme=discord_old_blurple&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dzbluv&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
+🎓 I'm currently studying at **ESTIN (École Supérieure en Sciences et Technologies de l'Informatique et du Numérique)** — where I’m deepening my skills in software engineering, AI, and problem solving.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dzbluv&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<br />
+
+---
+
+### 🌍 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/Bluv" target="_blank">
+    <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/Bluv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bluv?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/Bluv?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://www.instagram.com/dz_bluv" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+
+![Bluv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluv&show_icons=true&theme=tokyonight)
+
+<!-- Uncomment if you want the streak -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Bluv&theme=tokyonight&border_radius=4.5) -->
+
+---
+
+### 🧠 About Me
+
+- 🔭 Currently learning **AI, full-stack development, and algorithms**  
+- 🌱 Exploring **Python, React, and Machine Learning**  
+- ⚡ Fun fact: I love turning complex problems into elegant solutions  
+- 🎯 Goal: Build impactful projects and keep growing as a developer  
+
+---
+
+> “The best way to predict the future is to create it.” – Alan Kay
+
+
+
