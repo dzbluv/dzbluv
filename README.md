@@ -53,8 +53,8 @@ Every line of code I write is part of my journey to grow, create, and share know
 
 ### 🧠 About Me
 
-- 🔭 Currently learning **AI, full-stack development, and algorithms**  
-- 🌱 Exploring **Python, React, and Machine Learning**  
+- 🔭 Currently learning **AI and algorithms**  
+- 🌱 Exploring **Python and Machine Learning**  
 - ⚡ Fun fact: I love turning complex problems into elegant solutions  
 - 🎯 Goal: Build impactful projects and keep growing as a developer  
 
