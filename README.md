@@ -5,7 +5,7 @@
 Hey there! I'm **Adjeroud Mohamed Mounib**, a passionate developer and curious learner who loves exploring the digital world — from building projects that solve real problems to diving into AI, programming, and creative coding.  
 Every line of code I write is part of my journey to grow, create, and share knowledge with others.
 
-🎓 I'm currently studying at **ESTIN (École Supérieure en Sciences et Technologies de l'Informatique et du Numérique)** — where I’m deepening my skills in software engineering, AI, and problem solving.
+🎓 I'm currently studying at **ESTIN (École Supérieure en Sciences et Technologies de l'Informatique et du Numérique)** — where I’m deepening my skills in AI and problem solving.
 
 ---
 
