@@ -19,6 +19,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Algiers
+          config_theme: dark
+          config_colors: "primary:#a78bfa, accent:#7c3aed"
 
           # Isometric commit calendar
           plugin_isocalendar: yes
