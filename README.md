@@ -38,7 +38,7 @@ class Bluv:
   <img src="https://raw.githubusercontent.com/dzbluv/dzbluv/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
 </a>
 
-> 💡 _Auto-generated daily with [lowlighter/metrics](https://github.com/lowlighter/metrics) — see [setup](#-metrics-setup) below._
+
 
 </div>
 
