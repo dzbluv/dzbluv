@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Adjeroud%20Mohamed%20Mounib&fontSize=36&fontColor=58a6ff&fontAlignY=35&desc=AI%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Problem%20Solver&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7c3aed&height=220&section=header&text=Adjeroud%20Mohamed%20Mounib&fontSize=36&fontColor=a78bfa&fontAlignY=35&desc=AI%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Problem%20Solver&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING EFFECT -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Building+intelligent+systems+from+scratch;CS+Student+%40+ESTIN+%7C+Algeria+%F0%9F%87%A9%F0%9F%87%BF;From+neural+networks+to+full-stack+platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Building+intelligent+systems+from+scratch;CS+Student+%40+ESTIN+%7C+Algeria+%F0%9F%87%A9%F0%9F%87%BF;From+neural+networks+to+full-stack+platforms)](https://git.io/typing-svg)
 
 </div>
 
@@ -111,7 +111,7 @@ Experimenting with different neural network architectures for handwritten digit 
 
 `Python` `NumPy` `Neural Networks`
 
-[![Repo](https://img.shields.io/badge/-View_Repo-181717?style=flat-square&logo=github)](https://github.com/dzbluv/mnist-digit-classifier) ![Stars](https://img.shields.io/github/stars/dzbluv/mnist-digit-classifier?style=flat-square&color=58a6ff)
+[![Repo](https://img.shields.io/badge/-View_Repo-181717?style=flat-square&logo=github)](https://github.com/dzbluv/mnist-digit-classifier) ![Stars](https://img.shields.io/github/stars/dzbluv/mnist-digit-classifier?style=flat-square&color=a78bfa)
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ A ground-up implementation of Random Forest using only NumPy — exploring decis
 
 `Python` `NumPy` `Machine Learning`
 
-[![Repo](https://img.shields.io/badge/-View_Repo-181717?style=flat-square&logo=github)](https://github.com/dzbluv/random-forest-regressor) ![Stars](https://img.shields.io/github/stars/dzbluv/random-forest-regressor?style=flat-square&color=58a6ff)
+[![Repo](https://img.shields.io/badge/-View_Repo-181717?style=flat-square&logo=github)](https://github.com/dzbluv/random-forest-regressor) ![Stars](https://img.shields.io/github/stars/dzbluv/random-forest-regressor?style=flat-square&color=a78bfa)
 
 </td>
 <td width="50%" valign="top">
@@ -139,7 +139,7 @@ A C-based utility for converting between binary, octal, decimal, and hexadecimal
 
 `C` `Algorithms` `Systems`
 
-[![Repo](https://img.shields.io/badge/-View_Repo-181717?style=flat-square&logo=github)](https://github.com/dzbluv/Base-Conversion-Number-System-Operations-Tool) ![Stars](https://img.shields.io/github/stars/dzbluv/Base-Conversion-Number-System-Operations-Tool?style=flat-square&color=58a6ff)
+[![Repo](https://img.shields.io/badge/-View_Repo-181717?style=flat-square&logo=github)](https://github.com/dzbluv/Base-Conversion-Number-System-Operations-Tool) ![Stars](https://img.shields.io/github/stars/dzbluv/Base-Conversion-Number-System-Operations-Tool?style=flat-square&color=a78bfa)
 
 </td>
 </tr>
@@ -153,19 +153,19 @@ A C-based utility for converting between binary, octal, decimal, and hexadecimal
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzbluv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzbluv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzbluv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzbluv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dzbluv&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dzbluv&theme=github-dark-blue&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="180em" />
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzbluv&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzbluv&bg_color=0d1117&color=a78bfa&line=a78bfa&point=c9d1d9&area_color=161b22&area=true&hide_border=true" width="95%"/>
 </div>
 
 <br/>
@@ -201,9 +201,9 @@ A C-based utility for converting between binary, octal, decimal, and hexadecimal
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dzbluv&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=dzbluv&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7c3aed&height=120&section=footer" width="100%"/>
