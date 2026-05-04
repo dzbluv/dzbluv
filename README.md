@@ -158,8 +158,8 @@ A C-based utility for converting between binary, octal, decimal, and hexadecimal
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzbluv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzbluv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+  <img height="220em" src="https://raw.githubusercontent.com/dzbluv/dzbluv/main/github-stats.svg" />
+  <img height="220em" src="https://raw.githubusercontent.com/dzbluv/dzbluv/main/github-languages.svg" />
 </div>
 
 <div align="center">
