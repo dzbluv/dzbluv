@@ -64,6 +64,8 @@ class Bluv:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -72,6 +74,9 @@ class Bluv:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![TiDB](https://img.shields.io/badge/TiDB-FF3E3E?style=for-the-badge&logo=pingcap&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -96,9 +101,9 @@ class Bluv:
 
 A full-stack platform where users trade items and skills, powered by an intelligent AI assistant with semantic search (RAG), contextual matchmaking, and a cinematic React frontend with WebGL effects.
 
-`Django` `React` `Next.js` `TiDB` `pgvector` `RAG`
+`Django` `React` `Vite` `TiDB` `pgvector` `Channels` `DeepSeek`
 
-🔒 _Private — currently in development_
+[![Repo](https://img.shields.io/badge/-View_Repo-181717?style=flat-square&logo=github)](https://github.com/dzbluv/GiveNGet) ![Stars](https://img.shields.io/github/stars/dzbluv/GiveNGet?style=flat-square&color=a78bfa)
 
 </td>
 <td width="50%" valign="top">
